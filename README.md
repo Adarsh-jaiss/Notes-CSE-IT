@@ -23,7 +23,7 @@ We have provided notes of topics which are as follows :
 
 
 ## Contributing
-We love and welcome your PR'S 😄
+We welcome your PR'S 😄
 
 
 
